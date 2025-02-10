@@ -1,0 +1,9 @@
+LICENSE.txt
+README.md
+pyproject.toml
+prs3_logging.egg-info/PKG-INFO
+prs3_logging.egg-info/SOURCES.txt
+prs3_logging.egg-info/dependency_links.txt
+prs3_logging.egg-info/top_level.txt
+psr3_logging/Logger.py
+psr3_logging/__init__.py
